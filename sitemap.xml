@@ -436,36 +436,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/analysis/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/layers/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/tcpdump_fundamentals/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/tcpdump_packet_filtering/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/wireshark_advanced_usage/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://neutronsec.com/network_traffic_analysis/wireshark_analysis/</loc>
-         <lastmod>2022-09-15</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://neutronsec.com/password_attacks/cracking_files/protected_archives/</loc>
          <lastmod>2022-09-15</lastmod>
          <changefreq>daily</changefreq>
