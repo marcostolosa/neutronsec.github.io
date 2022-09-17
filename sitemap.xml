@@ -851,12 +851,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/blue-team/</loc>
+         <loc>https://neutronsec.com/blog/category/soc/</loc>
          <lastmod>2022-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/soc/</loc>
+         <loc>https://neutronsec.com/blog/category/blue-team/</loc>
          <lastmod>2022-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
