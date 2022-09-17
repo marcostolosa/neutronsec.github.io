@@ -191,6 +191,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://neutronsec.com/blog/2022/09/17/pcap-analysis-using-zeek/</loc>
+         <lastmod>2022-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://neutronsec.com/blog/2022/09/17/analyzing-malicious-pdf-and-word-documents/</loc>
          <lastmod>2022-09-17</lastmod>
          <changefreq>daily</changefreq>
