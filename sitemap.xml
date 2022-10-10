@@ -196,6 +196,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://neutronsec.com/blog/2022/10/11/how-to-run-a-mfa-registration-campaign-in-azure/</loc>
+         <lastmod>2022-10-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://neutronsec.com/blog/2022/10/03/how-to-deploy-sysmon-via-gpo/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
@@ -876,12 +881,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/security/</loc>
+         <loc>https://neutronsec.com/blog/category/azure/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/azure/</loc>
+         <loc>https://neutronsec.com/blog/category/security/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
