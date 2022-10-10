@@ -516,6 +516,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://neutronsec.com/powershell/cheatsheet/</loc>
+         <lastmod>2022-10-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://neutronsec.com/privesc/linux/credential_hunting/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
@@ -871,22 +876,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/azure/</loc>
-         <lastmod>2022-10-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://neutronsec.com/blog/category/security/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://neutronsec.com/blog/category/soc/</loc>
+         <loc>https://neutronsec.com/blog/category/azure/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://neutronsec.com/blog/category/blue-team/</loc>
+         <lastmod>2022-10-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://neutronsec.com/blog/category/soc/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
